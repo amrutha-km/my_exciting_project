@@ -1,2 +1,1 @@
-Print("Howdy world")
-Print("Hajimemashite sekai!")
+Print("Hello! World,we are one!.")
